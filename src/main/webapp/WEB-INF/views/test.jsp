@@ -11,6 +11,5 @@
 <h1>Test Page</h1>
 Today;s date: <%= new Date() %>
 <h5>git 어려워,,,,,</h5>
-<h5>깃 충돌시켜보기 연습</h5>
 </body>
 </html>
